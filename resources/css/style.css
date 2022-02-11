@@ -26,6 +26,10 @@ article.mid {
     color: grey;
 }
 
+a.bottom {
+    color: aquamarine;
+}
+
 p.footer {
     text-align: right;
     color: grey;
