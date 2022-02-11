@@ -34,3 +34,7 @@ p.footer {
     text-align: right;
     color: grey;
 }
+
+img {
+    padding: 2em 0em 2em 0em;
+}
