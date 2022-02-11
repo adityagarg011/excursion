@@ -1,0 +1,32 @@
+* {
+    background-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    text-align: center;
+}
+
+h1.topheader {
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+
+a.topheader {
+    color:aquamarine;
+}
+
+h1.mid {
+    font-weight: 300;
+    font-size: 42px;
+}
+
+article.mid {
+    font-size: 21px;
+    color: grey;
+}
+
+p.footer {
+    text-align: right;
+    color: grey;
+}
